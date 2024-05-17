@@ -1,2 +1,2 @@
-# CS5830-Big-Data-Laboratory-Assignment-7
+# FastAPI with Prometheus and Grafana Monitoring
 This repository builds on a FastAPI application, adding Prometheus monitoring hooks to track API usage and monitor the application's health. Additionally, it includes Grafana visualization for the Prometheus metrics. After ensuring the single instance of the application works correctly, the project is dockerized and scaled to multiple instances to monitor the cluster's health.

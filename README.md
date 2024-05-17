@@ -69,6 +69,11 @@ Use Grafana to create a dashboard and visualize the metrics from Prometheus. Ref
 
 ![Grafana Dashboard-2](https://github.com/Sanky18/CS5830-Big-Data-Laboratory-Assignment-7/assets/119156783/c4c21ce1-ca67-49f1-bbe6-8cc7c9e20044)
 ![Grafana Dashboard-1](https://github.com/Sanky18/CS5830-Big-Data-Laboratory-Assignment-7/assets/119156783/a8ee05a7-bc9e-4c98-800f-182141a511d4)
+## Prometheus
+
+![api_cpu_utilization](https://github.com/Sanky18/CS5830-Big-Data-Laboratory-Assignment-7/assets/119156783/f7fa5ff8-0f05-4913-b292-b2f76eba6a9e)
+![api_memory_utilization](https://github.com/Sanky18/CS5830-Big-Data-Laboratory-Assignment-7/assets/119156783/0b4251f7-8eaf-4dbb-9884-17028eed17fb)
+![api_inference_time](https://github.com/Sanky18/CS5830-Big-Data-Laboratory-Assignment-7/assets/119156783/dba9904a-ce42-45bd-bbfe-cc9d01ebf750)
 
 ## Conclusion
 This project demonstrates how to enhance a FastAPI application with monitoring and visualization capabilities using Prometheus and Grafana. By dockerizing the application and scaling it to multiple instances, you can monitor and manage the health of a clustered environment effectively.

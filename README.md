@@ -36,7 +36,7 @@ This project extends a FastAPI application with Prometheus monitoring hooks to t
     │   └── train_best_model.py
     └── tests
 
-## Setup
+## Setup Instructions
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
